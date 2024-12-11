@@ -1,0 +1,13 @@
+name = "Integrated Scripting"
+filename = "IntegratedScripting-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f5471794b4499a9cc5cca63bc05950ee240e41d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6030266
+project-id = 889785

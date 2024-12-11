@@ -1,0 +1,13 @@
+name = "Integrated REST"
+filename = "IntegratedREST-1.20.1-1.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7878f36fde5954666405b2f3b14daa836ddbe543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5242642
+project-id = 284332

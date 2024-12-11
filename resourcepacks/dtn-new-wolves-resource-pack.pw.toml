@@ -1,0 +1,13 @@
+name = "Doggy Talents Next X New Wolves "
+filename = "DTNxNW-1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb4fb6d2af08927f08f5a785dc1147a571912398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5873808
+project-id = 987189
